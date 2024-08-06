@@ -49,7 +49,7 @@ I use many languages as C, Java or Javascript and I love facing challenges and e
 
 <br/>
 
-# 📊 Stats :
+<h2 align="center">📊 Stats</h2>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=db200253&layout=compact&theme=dark)
 
