@@ -5,5 +5,5 @@ On this profile, you will find lots of different projects (most of them are side
 
 In short, enjoy my work, enjoy these repositories ✨
 
-# Stats :
+# 📊 Stats :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=db200253&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
