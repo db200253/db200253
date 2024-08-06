@@ -53,6 +53,18 @@ I use many languages as C, Java or Javascript and I love facing challenges and e
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"
             alt="ansible" width="54" height="54" style="vertical-align:top; margin:50px;">
     </a>
+    <a href="">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"
+            alt="jetbrains" width="54" height="54" style="vertical-align:top; margin:50px;">
+    </a>
+    <a href="">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+            alt="linux" width="54" height="54" style="vertical-align:top; margin:50px;">
+    </a>
+    <a href="">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vsphere/vsphere-original-wordmark.svg" width="54"
+            height="54" alt="vsphere" style="vertical-align:top; margin:50px">
+    </a>
 </div>
 
 <br/>
