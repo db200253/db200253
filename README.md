@@ -42,6 +42,10 @@ I use many languages as C, Java or Javascript and I love facing challenges and e
 <br/>
 
 # 📊 Stats :
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=db200253&layout=compact)
 
+<p align="center" style="display: flex;">
+    
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=db200253&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=db200253&show_icons=true&theme=dark)
+
+</p>
