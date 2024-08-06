@@ -26,12 +26,20 @@ I use many languages as C, Java or Javascript and I love facing challenges and e
             alt="c" width="54" height="54" style="vertical-align:top; margin:50px;">
     </a>
     <a href="">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+            alt="python" width="54" height="54" style="vertical-align:top; margin:50px;">
+    </a>
+    <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
             width="54" height="54" alt="postgres" style="vertical-align:top; margin:50px">
     </a>
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
             width="54" height="54" alt="mysql" style="vertical-align:top; margin:50px">
+    </a>
+    <a href="">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
+            width="54" height="54" alt="oracle" style="vertical-align:top; margin:50px">
     </a>
     <a href="https://hub.docker.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="54"
