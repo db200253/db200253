@@ -8,10 +8,10 @@ I use many languages as C, Java or Javascript and I love facing challenges and e
 
 <h2 align="center">🛠 Technologies & Skils</h2>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="align: center; display: flex; justify-content: space-between;">
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-            alt="java" width="54" height="54" style="vertical-align:top; margin:15%;">
+            alt="java" width="54" height="54" style="vertical-align:top; margin:50px;">
     </a>
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
