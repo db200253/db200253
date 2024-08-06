@@ -29,6 +29,10 @@ I use many languages as C, Java or Javascript and I love facing challenges and e
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
             width="54" height="54" alt="postgres" style="vertical-align:top; margin:50px">
     </a>
+    <a href="">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
+            width="54" height="54" alt="mysql" style="vertical-align:top; margin:50px">
+    </a>
     <a href="https://hub.docker.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="54"
             height="54" alt="docker" style="vertical-align:top; margin:50px">
@@ -40,6 +44,10 @@ I use many languages as C, Java or Javascript and I love facing challenges and e
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
             alt="react" width="54" height="54" style="vertical-align:top; margin:50px;">
+    </a>
+    <a href="">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+            alt="nodejs" width="54" height="54" style="vertical-align:top; margin:50px;">
     </a>
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"
