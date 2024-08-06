@@ -8,7 +8,7 @@ I use many languages as C, Java or Javascript and I love facing challenges and e
 
 <h2 align="center">🛠 Technologies & Skils</h2>
 
-<p align="center">
+<p align="center" display="flex">
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
             alt="java" width="54" height="54" style="vertical-align:top; margin:4px;">
