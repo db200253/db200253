@@ -11,27 +11,31 @@ I use many languages as C, Java or Javascript and I love facing challenges and e
 <div style="display: flex; justify-content: space-around;">
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-            alt="java" width="54" height="54" style="vertical-align:top; margin:4px;">
+            alt="java" width="54" height="54" style="vertical-align:top; margin:50px;">
     </a>
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-            alt="c" width="54" height="54" style="vertical-align:top; margin:4px;">
+            alt="c" width="54" height="54" style="vertical-align:top; margin:50px;">
     </a>
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
-            width="54" height="54" alt="postgres" style="vertical-align:top; margin:4px">
+            width="54" height="54" alt="postgres" style="vertical-align:top; margin:50px">
     </a>
     <a href="https://hub.docker.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="54"
-            height="54" alt="docker" style="vertical-align:top; margin:4px">
+            height="54" alt="docker" style="vertical-align:top; margin:50px">
     </a>
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="54"
-            height="54" alt="javascript" style="vertical-align:top; margin:4px">
+            height="54" alt="javascript" style="vertical-align:top; margin:50px">
     </a>
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-            alt="react" width="54" height="54" style="vertical-align:top; margin:4px;">
+            alt="react" width="54" height="54" style="vertical-align:top; margin:50px;">
+    </a>
+    <a href="">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"
+            alt="ansible" width="54" height="54" style="vertical-align:top; margin:50px;">
     </a>
 </div>
 
