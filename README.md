@@ -66,8 +66,8 @@ I use many languages as C, Java or Javascript and I love facing challenges and e
             alt="jetbrains" width="45" height="45" style="vertical-align:top; margin:4px;">
     </a>
     <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-            alt="linux" width="45" height="45" style="vertical-align:top; margin:4px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg"
+            alt="ubuntu" width="45" height="45" style="vertical-align:top; margin:4px;">
     </a>
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vsphere/vsphere-original-wordmark.svg"
