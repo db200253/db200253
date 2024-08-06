@@ -11,67 +11,67 @@ I use many languages as C, Java or Javascript and I love facing challenges and e
 <div align="center">
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-            alt="java" width="54" height="54" style="vertical-align:top; margin:50px;">
+            alt="java" width="45" height="45" style="vertical-align:top; margin:4px;">
     </a>
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
-            alt="php" width="54" height="54" style="vertical-align:top; margin:50px;">
+            alt="php" width="45" height="45" style="vertical-align:top; margin:4px;">
     </a>
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg"
-            alt="processing" width="54" height="54" style="vertical-align:top; margin:50px;">
+            alt="processing" width="45" height="45" style="vertical-align:top; margin:4px;">
     </a>
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-            alt="c" width="54" height="54" style="vertical-align:top; margin:50px;">
+            alt="c" width="45" height="45" style="vertical-align:top; margin:4px;">
     </a>
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-            alt="python" width="54" height="54" style="vertical-align:top; margin:50px;">
+            alt="python" width="45" height="45" style="vertical-align:top; margin:4px;">
     </a>
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
-            width="54" height="54" alt="postgres" style="vertical-align:top; margin:50px">
+            alt="postgresql" width="45" height="45" style="vertical-align:top; margin:4px;">
     </a>
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
-            width="54" height="54" alt="mysql" style="vertical-align:top; margin:50px">
+            alt="mysql" width="45" height="45" style="vertical-align:top; margin:4px;">
     </a>
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
-            width="54" height="54" alt="oracle" style="vertical-align:top; margin:50px">
+            alt="oracle" height="54" alt="oracle" style="vertical-align:top; margin:50px">
     </a>
     <a href="https://hub.docker.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="54"
-            height="54" alt="docker" style="vertical-align:top; margin:50px">
+            alt="docker" width="45" height="45" style="vertical-align:top; margin:4px;">
     </a>
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="54"
-            height="54" alt="javascript" style="vertical-align:top; margin:50px">
+            alt="javascript" width="45" height="45" style="vertical-align:top; margin:4px;">
     </a>
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-            alt="react" width="54" height="54" style="vertical-align:top; margin:50px;">
+            alt="react" width="45" height="45" style="vertical-align:top; margin:4px;">
     </a>
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-            alt="nodejs" width="54" height="54" style="vertical-align:top; margin:50px;">
+            alt="nodejs" width="45" height="45" style="vertical-align:top; margin:4px;">
     </a>
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"
-            alt="ansible" width="54" height="54" style="vertical-align:top; margin:50px;">
+            alt="ansible" width="45" height="45" style="vertical-align:top; margin:4px;">
     </a>
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"
-            alt="jetbrains" width="54" height="54" style="vertical-align:top; margin:50px;">
+            alt="jetbrains" width="45" height="45" style="vertical-align:top; margin:4px;">
     </a>
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-            alt="linux" width="54" height="54" style="vertical-align:top; margin:50px;">
+            alt="linux" width="45" height="45" style="vertical-align:top; margin:4px;">
     </a>
     <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vsphere/vsphere-original-wordmark.svg" width="54"
-            height="54" alt="vsphere" style="vertical-align:top; margin:50px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vsphere/vsphere-original-wordmark.svg"
+            alt="vsphere" width="45" height="45" style="vertical-align:top; margin:4px;">
     </a>
 </div>
 
