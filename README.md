@@ -26,6 +26,10 @@ I use many languages as C, Java or Javascript and I love facing challenges and e
             alt="c" width="45" height="45" style="vertical-align:top; margin:4px;">
     </a>
     <a href="">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg"
+            alt="opengl" width="45" height="45" style="vertical-align:top; margin:4px;">
+    </a>
+    <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
             alt="python" width="45" height="45" style="vertical-align:top; margin:4px;">
     </a>
@@ -37,17 +41,13 @@ I use many languages as C, Java or Javascript and I love facing challenges and e
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
             alt="mysql" width="45" height="45" style="vertical-align:top; margin:4px;">
     </a>
-    <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
-            alt="oracle" height="54" alt="oracle" style="vertical-align:top; margin:50px">
-    </a>
     <a href="https://hub.docker.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="54"
             alt="docker" width="45" height="45" style="vertical-align:top; margin:4px;">
     </a>
     <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="54"
-            alt="javascript" width="45" height="45" style="vertical-align:top; margin:4px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg"
+            alt="podman" width="45" height="45" style="vertical-align:top; margin:4px;">
     </a>
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
