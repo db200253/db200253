@@ -6,7 +6,7 @@ I'm a French junior developer and I'm currently doing my fifth year of master in
 
 I use many languages as C, Java or Javascript and I love facing challenges and earn acknowledgment.
 
-<h2 align="center">🛠 Technologies & Skils</h2>
+<h2 align="center">🛠 Technologies & Skills</h2>
 
 <div align="center">
     <a href="">
