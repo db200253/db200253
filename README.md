@@ -14,6 +14,10 @@ I use many languages as C, Java or Javascript and I love facing challenges and e
             alt="java" width="54" height="54" style="vertical-align:top; margin:50px;">
     </a>
     <a href="">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+            alt="php" width="54" height="54" style="vertical-align:top; margin:50px;">
+    </a>
+    <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
             alt="c" width="54" height="54" style="vertical-align:top; margin:50px;">
     </a>
