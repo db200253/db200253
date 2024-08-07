@@ -1,4 +1,4 @@
-![](header.png)
+![](header.jpg)
 
 <h1 align="center">Hi there, I'm Baptiste Duvieu 👋</h1>
 
