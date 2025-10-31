@@ -29,7 +29,6 @@ I'm passionate about data, machine learning, and building intelligent systems.
 | Data Science | pandas, NumPy, scikit-learn |
 | Deep Learning | TensorFlow, Keras |
 | Deployment | Docker, Streamlit |
-| Data Engineering | SQL, Airflow, Spark (basics) |
 | Version Control | Git, GitHub |
 
 ---
