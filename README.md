@@ -1,3 +1,5 @@
+![](wp8816322.png)
+
 # 👋 Hi there, I'm Baptiste  
 
 🎯 I'm a **French junior developer** specialized in **Data Science** and **AI/ML model engineering**.  
