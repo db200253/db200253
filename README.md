@@ -1,84 +1,40 @@
-![](header.jpg)
+# 👋 Hi there, I'm Baptiste  
 
-<h1 align="center">Hi there, I'm Baptiste Duvieu 👋</h1>
+🎯 I'm a **French junior developer** specialized in **Data Science** and **AI/ML model engineering**.  
+I'm passionate about data, machine learning, and building intelligent systems.
 
-I'm a French junior developer and I'm currently doing my fifth year of master in IT. In my studies, I work on web and software engineering, communicating objects and complex systems engineering.
+---
 
-I use many languages as C, Java or Javascript and I love facing challenges and earn acknowledgment.
+## 🧠 About Me
+- 🇫🇷 Based in France  
+- 🎓 Background in Data Science / AI / Software Development  
+- 💡 Interested in: Machine Learning, Deep Learning, MLOps, NLP, and Computer Vision  
+- 🧰 Main stack: Python, TensorFlow, scikit-learn, pandas, Docker, SQL  
+- 🌱 Currently learning more about **Neural Networks** (CNNs, RNNs, etc.), **LLM engineering**, and **Streamlit** for deploying AI models as web apps  
 
-<h2 align="center">🛠 Technologies & Skills</h2>
+---
 
-<div align="center">
-    <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-            alt="java" width="45" height="45" style="vertical-align:top; margin:4px;">
-    </a>
-    <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
-            alt="php" width="45" height="45" style="vertical-align:top; margin:4px;">
-    </a>
-    <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg"
-            alt="processing" width="45" height="45" style="vertical-align:top; margin:4px;">
-    </a>
-    <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-            alt="c" width="45" height="45" style="vertical-align:top; margin:4px;">
-    </a>
-    <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg"
-            alt="opengl" width="45" height="45" style="vertical-align:top; margin:4px;">
-    </a>
-    <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-            alt="python" width="45" height="45" style="vertical-align:top; margin:4px;">
-    </a>
-    <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="45" height="45" style="vertical-align:top; margin:4px;">
-    </a>
-    <a href="https://hub.docker.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="54"
-            alt="docker" width="45" height="45" style="vertical-align:top; margin:4px;">
-    </a>
-    <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg"
-            alt="podman" width="45" height="45" style="vertical-align:top; margin:4px;">
-    </a>
-    <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-            alt="javascript" width="45" height="45" style="vertical-align:top; margin:4px;">
-    </a>
-    <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-            alt="react" width="45" height="45" style="vertical-align:top; margin:4px;">
-    </a>
-    <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-            alt="nodejs" width="45" height="45" style="vertical-align:top; margin:4px;">
-    </a>
-    <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"
-            alt="ansible" width="45" height="45" style="vertical-align:top; margin:4px;">
-    </a>
-    <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"
-            alt="jetbrains" width="45" height="45" style="vertical-align:top; margin:4px;">
-    </a>
-    <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg"
-            alt="ubuntu" width="45" height="45" style="vertical-align:top; margin:4px;">
-    </a>
-    <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vsphere/vsphere-original-wordmark.svg"
-            alt="vsphere" width="45" height="45" style="vertical-align:top; margin:4px;">
-    </a>
-</div>
+## 🚀 Recent Projects
+- 🧠 [**BrainIRM_Classifier**](https://github.com/db200253/BrainIRM_Classifier) — Brain tumor classification using transfer learning  
+- 🔢 [**MLPForMNIST**](https://github.com/db200253/MLPForMNIST) — MNIST image classification using a multilayer perceptron built from scratch  
+- ⛵ [**TitanicSurvivor**](https://github.com/db200253/TitanicSurvivor) — Survivor prediction using the classic Titanic dataset from Kaggle  
 
-<br/>
+---
 
-<h2 align="center">📊 Stats</h2>
+## 🛠️ Tech Skills
+| Area | Tools & Technologies |
+|------|----------------------|
+| Data Science | pandas, NumPy, scikit-learn |
+| Deep Learning | TensorFlow, Keras |
+| Deployment | Docker, Streamlit |
+| Data Engineering | SQL, Airflow, Spark (basics) |
+| Version Control | Git, GitHub |
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=db200253&theme=blueberry&hide_border=true&layout=compact)
+---
 
-![](https://github-readme-stats.vercel.app/api?username=db200253&show_icons=true&theme=blueberry&hide_border=true&layout=compact)
+## 📫 Get in Touch
+- 💼 [LinkedIn](https://www.linkedin.com/in/baptiste-duvieu)
+
+---
+
+⭐️ Feel free to explore my repositories, contribute, or reach out — I love discussing AI, Data Science, and all things tech!
