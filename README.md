@@ -23,7 +23,6 @@
 |------|----------------------|
 | Frontend | React, Next.js, TypeScript |
 | UI / Styling | Tailwind CSS, shadcn/ui, Framer Motion |
-| Design | Figma|
 | State Management | Redux Toolkit |
 | Testing | Jest |
 | DevOps / Deployment | Docker, Vercel |
