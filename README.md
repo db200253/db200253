@@ -2,14 +2,14 @@
 
 # 👋 Hi there, I'm Baptiste  
 
-🎯 **Junior Frontend Developer** focused on building clean interfaces. I love creating things that look good and feel smooth !
+🎯 **Software engineer** focused on building reliable software with a focus on performance and maintainability.
 
 ---
 
 ## 🧠 About Me
 - 🇫🇷 Based in France  
-- 🎨 Passionate about UI/UX, design systems & component architecture
-- 🧰 Main stack: React, Next.js, TypeScript, Tailwind CSS
+- 🎨 Passionate about API design, distributed systems, and clean architecture
+- 🧰 Main stack: Java Spring Boot and Python Django
 
 ---
 
@@ -21,11 +21,10 @@
 ## 🛠️ Tech Skills
 | Area | Tools & Technologies |
 |------|----------------------|
-| Frontend | React, Next.js, TypeScript |
-| UI / Styling | Tailwind CSS, shadcn/ui, Framer Motion |
-| State Management | Redux Toolkit |
-| Testing | Jest |
-| DevOps / Deployment | Docker, Vercel |
+| Backend | Django, Spring Boot |
+| API & Architecture | REST, Microservices |
+| Databases | PostgreSQL, MySQL |
+| Backend Testing | JUnit, PyTest |
 
 ---
 
